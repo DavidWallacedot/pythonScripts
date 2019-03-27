@@ -1,0 +1,7 @@
+print('Enter te first nubmer to add:')
+first = input()
+print('Enter the second number to add')
+second = input()
+print('enter the third number to add')
+third = input()
+print('the sum of the three numbers is'+first+second+third)
